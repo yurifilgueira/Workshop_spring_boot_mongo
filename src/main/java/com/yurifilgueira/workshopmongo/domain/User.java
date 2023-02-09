@@ -1,4 +1,4 @@
-package com.filgueirayuri.workshopmongo.domain;
+package com.yurifilgueira.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.Objects;

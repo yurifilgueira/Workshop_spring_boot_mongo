@@ -1,8 +1,8 @@
-package com.filgueirayuri.workshopmongo.dto;
+package com.yurifilgueira.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import com.filgueirayuri.workshopmongo.domain.User;
+import com.yurifilgueira.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable{
 

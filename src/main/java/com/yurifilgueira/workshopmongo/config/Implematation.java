@@ -1,4 +1,4 @@
-package com.filgueirayuri.workshopmongo.config;
+package com.yurifilgueira.workshopmongo.config;
 
 import java.util.Arrays;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
-import com.filgueirayuri.workshopmongo.domain.User;
-import com.filgueirayuri.workshopmongo.repository.UserRepository;
+import com.yurifilgueira.workshopmongo.domain.User;
+import com.yurifilgueira.workshopmongo.repository.UserRepository;
 
 @Configuration
 public class Implematation implements CommandLineRunner{
