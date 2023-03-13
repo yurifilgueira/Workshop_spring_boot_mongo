@@ -26,6 +26,8 @@ public class Post implements Serializable{
 	private AuthorDTO author;
 	private List<CommentDTO> comments = new ArrayList<>();
 	
+	
+	
 	public Post() {
 	}
 
@@ -39,6 +41,8 @@ public class Post implements Serializable{
 
 	public String getId() {
 		return id;
+		
+		System.out.println("Test");
 	}
 
 	public void setId(String id) {
